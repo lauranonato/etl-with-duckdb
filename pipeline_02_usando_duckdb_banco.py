@@ -73,7 +73,7 @@ def salvar_no_postgres(df, tabela):
 
 def pipeline():
     url_pasta = 'https://drive.google.com/drive/folders/1an5ZVxDh82Fhs4ayXljsss2Uy00TVnKt'
-    diretorio_local = './pasta_gdown'
+    diretorio_local = '/home/laura/Documentos/bootcamp-aulas/duckdb/gdown_pasta'
 
     # baixar_pasta_google_drive(url_pasta, diretorio_local)
     con = conectar_banco()

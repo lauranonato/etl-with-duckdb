@@ -19,4 +19,4 @@ Load:
 3. ler os arquivos e transformar em um dataframe
 
 
-![alt text](image.png)
+![Arquitetura](image.png)
